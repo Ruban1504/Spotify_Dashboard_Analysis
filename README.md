@@ -1,6 +1,8 @@
 Spotify Analysis Challenge - Maven Analytics
 ======
---![Chat Preview](https://imgur.com/WKzOGoD.png)
+![Chat Preview](https://imgur.com/iPMNOwj.png)
+![Chat Preview](https://imgur.com/5Il1wnM.png)
+
 
 
 ---
@@ -25,9 +27,9 @@ The challenge in this project is to discover:
      – Analyzing shuffle usage, weekend/night plays, and long-term trends.
 ---
 ## Dataset
-The **sales dataset** is a simulated dataset containing:
-- **45000+ sales records**.
-- Information about id, order_date, order_time, pizza_orderd etc,.
+The **Spotify Listening History** dataset contains:  
+- **149,860 records** tracking user listening behavior.  
+- Information about track names, artists, albums, play duration, playback platform, shuffle mode, and reasons for starting or ending a track.  
 
 ---
 ## Project Workflow
